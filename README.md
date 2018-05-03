@@ -1,2 +1,2 @@
 # GitHubJob
-//"Hello world"
+"Hello world"
